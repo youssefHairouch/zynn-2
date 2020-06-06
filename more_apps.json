@@ -4,24 +4,12 @@
   "more_apps": [
 
    {
-    "name": "Nerf Epic Pranks Guide",
-    "number_download": "500.000 download",
-    "icon": "https://lh3.googleusercontent.com/ZthWjW4P80_M8HQqyADpcfmS8S2r4LITKshecCWIWjOlrsZYBpsDoojgOYe4bHFZdRsY=s180",
-    "package": "com.guideepic.nerfgame.newpranks.tricks"
+    "name": "",
+    "number_download": "",
+    "icon": "",
+    "package": ""
    },
-    {
-      "name": "Crazy Kick!",
-      "number_download": "500.00 download",
-      "icon": "https://lh3.googleusercontent.com/jqcNAsVxWGE43Lbh2vtJNLzq9ylePLw5Vq3iuoNMEVvSNi6IPa0m5EfKdtY5rZO5ug=s180",
-      "package": "com.orbitalknight.ridiculousfreekick"
-    },
-
-    {
-      "name": "Apps 3",
-      "number_download": "500 download",
-      "icon": "https://lh3.googleusercontent.com/e9msie5Dobfa6KxflOUsqwCNbQGv_KBTb4ts8GM7M2v-2HJ9B1ipTgd68JWjHHKa-g=s180",
-      "package": "com.GameFactory.DrawCar"
-    }
+    
   ]
 
 }
